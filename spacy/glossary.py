@@ -231,7 +231,7 @@ GLOSSARY = {
     "rcmod": "relative clause modifier",
     "relcl": "relative clause modifier",
     "reparandum": "overridden disfluency",
-    "root": "root",
+    "ROOT": "root",
     "vocative": "vocative",
     "xcomp": "open clausal complement",
     # Dependency labels (German)
